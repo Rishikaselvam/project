@@ -1,10 +1,25 @@
-<h1 align="center">Hi 👋, I'm Rishika S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## 📄 Documentation
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/630001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="630001" height="30" width="40" /></a>
-</p>
+### 🛠️ Tools Installed
+- Cursor IDE
+- Claude Code Extension
+- Codex Extension
+- GitHub
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+---
+
+### ⚙️ Steps Followed
+
+1. Installed Cursor IDE from https://cursor.com/
+2. Opened Cursor and navigated to Extensions
+3. Installed "Claude Code" extension and logged in
+4. Installed "Codex" extension and logged in
+5. Created a public repository on GitHub
+6. Opened the repository in Cursor
+7. Created a README.md file
+8. Added project documentation
+9. Initialized Git (if needed)
+10. Committed changes using:
+   ```bash
+   git add .
+   git commit -m "Initial commit"
